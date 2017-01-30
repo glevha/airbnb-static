@@ -1,9 +1,10 @@
 <div>
+	<h1>Our team</h1>
 	<ul class="list-inline text-center">
 	  <% data.members.each do |name, member| %>
 	    <li>
-	      <%= image_tag "#{member["name"].downcase}.jpg", class: "avatar-big" %>
 	      <h3><%= member["name"].capitalize %></h3>
+	      <%= image_tag "#{member["name"].downcase}.jpg", class: "avatar-big" %>
 	    </li>
 	  <% end %>
 	</ul>
