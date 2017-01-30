@@ -1,0 +1,18 @@
+seb:
+  name: "Seb's home"
+  city_picture: "card-paris.jpg"
+  avatar: "seb.jpg"
+  description: "Charming place"
+  city: "Paris"
+romain:
+  name: "Romain's home"
+  city_picture: "card-london.jpeg"
+  avatar: "romain.jpeg"
+  description: "Charming place"
+  city: "London"
+anne:
+  name: "Anne's home"
+  city_picture: "card-brussels.jpeg"
+  avatar: "anne.jpg"
+  description: "Charming place"
+  city: "Brussels"

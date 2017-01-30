@@ -1,0 +1,16 @@
+discover:
+  picture: "globe.png"
+  caption: "Discover the world"
+  description: "The earth is your new home."
+pay:
+  picture: "dollar.png"
+  caption: "Pay online"
+  description: "No cash issues anymore."
+meet:
+  picture: "beer.png"
+  caption: "Meet people"
+  description: "Discover new culture and lifestyle."
+share:
+  picture: "heart.png"
+  caption: "Share and love"
+  description: "Join a community you will love."
