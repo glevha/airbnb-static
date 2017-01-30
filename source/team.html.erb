@@ -5,13 +5,13 @@
 	  <% data.members.each do |name, member| %>
 	    <li>
 	      <h3><%= member["name"].capitalize %></h3>
-	      <%= image_tag "#{member["name"].downcase}.jpg", class: "avatar-big" %>
+	      <%= image_tag "#{member["name"].downcase}.jpg", class: "img-circle avatar-big" %>
 	    </li>
 	  <% end %>
 	</ul>
 </div>
 
-<div>
+<div class="text-center">
 	<a href="mailto:contact@airbnb.com">
       <i class="fa fa-envelope"></i> contact@airbnb.com
     </a>
